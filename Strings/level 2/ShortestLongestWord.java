@@ -25,3 +25,4 @@ public class ShortestLongestWord {
         sc.close();
     }
 }
+// java
